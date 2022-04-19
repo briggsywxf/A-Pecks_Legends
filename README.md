@@ -1,4 +1,4 @@
-# A-Pecks_Legends
+# A-Pecks Legends
 
 <img src="https://user-images.githubusercontent.com/20879490/164044118-dc6cfb01-c1a4-4219-b257-87a92dfb5b72.png" width=200 />
 
